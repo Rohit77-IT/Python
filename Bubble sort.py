@@ -12,5 +12,5 @@ for i in range(0, n-1):
             arr[j+1] = temp
 print("Sorted numbers: ")
 for i in range(0, n):
-    print(arr[i], end=" ")
+    print(arr[i] , end=" ")
 print()
